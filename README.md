@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hello World! 👋
+#Welcome to my Github profile.
+## My name is Erick. Here you´ll find forks from projects
+#I´m interested in learning how was programmed and hopefully
+#some personal future projects to have fun with.
 <!--
 **erickib/erickib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
