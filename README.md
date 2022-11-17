@@ -1,5 +1,5 @@
-### :beginner: Hello World! :beginner: 👋
-#Welcome to my Github profile. My name is Erick.#
+### :beginner: Hello World! :beginner:
+# Welcome to my Github profile. My name is Erick.
 Here you´ll find forks from projects I´m interested in learning how was 
 programmed and hopefully some personal future projects to have fun with.
 <!--
